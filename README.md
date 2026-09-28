@@ -40,7 +40,7 @@ Cada foto es un recuadro gris con la descripción de lo que va ahí, por ejemplo
 Sube la foto a `img/fotos/` y reemplaza el texto por la imagen:
 
 ```html
-<div class="media"><img src="/img/fotos/centro-historico.jpg" alt="Calle del centro histórico de Santa Ana"></div>
+<div class="media"><img src="img/fotos/centro-historico.jpg" alt="Calle del centro histórico de Santa Ana"></div>
 ```
 
 La foto se recorta sola al tamaño del recuadro en todas las pantallas. Recomendado: JPG o WebP de 1600 px de ancho como máximo para la foto principal y 800 px para las demás.
